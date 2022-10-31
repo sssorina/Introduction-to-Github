@@ -1,0 +1,7 @@
+dir
+
+q
+x!
+:x!
+exit
+cls
